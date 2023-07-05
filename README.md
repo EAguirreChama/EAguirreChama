@@ -28,8 +28,8 @@ El BootCamp de Henry me ha permitido adquirir conocimiento y experiencia fundame
 Incluyendo tambien **HTML** y **CSS**
 
 ### **No dudes en contactarme!** 😁
-👔 Mi **[LinkedIn](https://www.linkedin.com/in/ernesto-aguirre-chama-a9a090269/)**
-💼 **[Portafolio](https://portafolio-ernesto-aguirre.netlify.app/)
-📧 **[Correo](aguirreernesto25@gmail.com)
+* 👔 Mi [LinkedIn](https://www.linkedin.com/in/ernesto-aguirre-chama-a9a090269/)
+* 💼 [Portafolio](https://portafolio-ernesto-aguirre.netlify.app/)
+* 📧 [Correo](aguirreernesto25@gmail.com)
 
 
