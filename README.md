@@ -2,8 +2,34 @@
 
 **¿Quien soy?**
 
-**¿Qué hago?**
+Soy 💻 **Programador FullStack Developer** 💻 Empecé mis conocimientos sobre la Programación en el **BootCamp de Henry**, ahí aprendí todo lo que hoy puedo ofrecer. Además de eso soy escritor, con muchos poemas y un libro a sacar 📝
 
-**¿Qué quiero conseguir?**
+💎 **¿Qué hago?** 💎
 
-**¿Qué tecnologías uso?**
+Actualmente estoy en mi Proyecto Final del cursado del BootCamp, estamos realizando una página que servira para mejorar los resultados del BootCamp en donde estudiamos. También estoy realizando un curso de Vue.js en Udemy. 📈
+
+💎 **¿Qué quiero conseguir?** 💎
+
+Mi objetivo personal es ayudar a empresas a conseguir el mejor resultado impactando al mundo 🌎
+
+Disfruto de la programación, no es algo sencillo de aprender pero es muy divertido encontrar la solución a los problemas que se presentan en el día a día. Me encanta como se puede realizar grandes cosas poniendo caractes en un archivo. 
+
+💎 **¿Qué tecnologías uso?** 💎
+
+El BootCamp de Henry me ha permitido adquirir conocimiento y experiencia fundamental para despejar 🚀 Las principales tecnologías que manejo son:
+
+* **JavaScript**
+* **React.js**
+* **Vue.js**
+* **Node.js**
+* **Git y GitHub**
+* **Sequelize**
+
+Incluyendo tambien **HTML** y **CSS**
+
+### **No dudes en contactarme!** 😁
+👔 Mi **[LinkedIn](https://www.linkedin.com/in/ernesto-aguirre-chama-a9a090269/)**
+💼 **[Portafolio](https://portafolio-ernesto-aguirre.netlify.app/)
+📧 **[Correo](aguirreernesto25@gmail.com)
+
+
