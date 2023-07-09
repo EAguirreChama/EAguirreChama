@@ -12,7 +12,7 @@ Actualmente estoy en mi Proyecto Final del cursado del BootCamp, estamos realiza
 
 Mi objetivo personal es ayudar a empresas a conseguir el mejor resultado impactando al mundo 🌎
 
-Disfruto de la programación, no es algo sencillo de aprender pero es muy divertido encontrar la solución a los problemas que se presentan en el día a día. Me encanta como se puede realizar grandes cosas poniendo caractes en un archivo. 
+Disfruto de la programación, no es algo sencillo de aprender pero es muy divertido encontrar la solución a los problemas que se presentan en el día a día. Me encanta como se puede realizar grandes cosas poniendo caracteres en un archivo. 
 
 💎 **¿Qué tecnologías uso?** 💎
 
