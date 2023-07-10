@@ -31,5 +31,6 @@ Incluyendo tambien **HTML** y **CSS**
 * 👔 Mi [LinkedIn](https://www.linkedin.com/in/ernesto-aguirre-chama-a9a090269/)
 * 💼 [Portafolio](https://portafolio-ernesto-aguirre.netlify.app/)
 * 📧 **Correo:** aguirreernesto25@gmail.com
+* 📃 [Curriculum](https://drive.google.com/file/d/1d8ZnlCBlI2fiBwINQUVaSoyVkv89ID3X/view?usp=drive_link)
 
 
