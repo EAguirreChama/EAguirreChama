@@ -4,10 +4,6 @@
 
 Soy 💻 **Programador FullStack Developer** 💻 Empecé mis conocimientos sobre la Programación en el **BootCamp de Henry**, ahí aprendí todo lo que hoy puedo ofrecer. Además de eso soy escritor, con muchos poemas y un libro a sacar 📝
 
-💎 **¿Qué hago?** 💎
-
-Actualmente estoy en mi Proyecto Final del cursado del BootCamp, estamos realizando una página que servira para mejorar los resultados del BootCamp en donde estudiamos. También estoy realizando un curso de Vue.js en Udemy. 📈
-
 💎 **¿Qué quiero conseguir?** 💎
 
 Mi objetivo personal es ayudar a empresas a conseguir el mejor resultado impactando al mundo 🌎
