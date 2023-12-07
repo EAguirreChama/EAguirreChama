@@ -2,13 +2,13 @@
 
 **¿Quien soy?**
 
-Soy 💻 **Programador FullStack Developer** 💻 Empecé mis conocimientos sobre la Programación en el **BootCamp de Henry**, ahí aprendí todo lo que hoy puedo ofrecer. Además de eso soy escritor, con muchos poemas y un libro a sacar 📝
+Soy 💻 **Programador FullStack Developer** 💻 Empecé mis conocimientos sobre la Programación en el **BootCamp de Henry**, ahí aprendí todo lo que hoy puedo ofrecer. Además de eso soy escritor, acabo de sacar mi primer libro "Solo un Niño" 📝
 
 💎 **¿Qué quiero conseguir?** 💎
 
 Mi objetivo personal es ayudar a empresas a conseguir el mejor resultado impactando al mundo 🌎
 
-Disfruto de la programación, no es algo sencillo de aprender pero es muy divertido encontrar la solución a los problemas que se presentan en el día a día. Me encanta como se puede realizar grandes cosas poniendo caracteres en un archivo. 
+Disfruto de la programación, no es algo sencillo de aprender, pero es muy divertido encontrar la solución a los problemas que se presentan en el día a día. Me encanta como se puede realizar grandes cosas poniendo caracteres en un archivo. 
 
 💎 **¿Qué tecnologías uso?** 💎
 
